@@ -12,7 +12,7 @@
 
 backend:
   name: github
-  repo: xitobuh/jhockert
+  repo: xitobuh/xitobuh
   branch: main
 
 
